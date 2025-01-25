@@ -30,7 +30,7 @@ A simple yet functional **calendar** built using **HTML, CSS, and JavaScript**. 
 --------------------------------------
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/Sajidali-219/calendar-project.git
+   git clone https://github.com/Sajidali-219/Calendar.git
    ```  
 2. Open `index.html` in your browser.
 
